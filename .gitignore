@@ -1,0 +1,11 @@
+# Reference data (too large for deployment)
+CWRU/
+CWRU Old/
+Bearing_Dataset/
+*.ipynb
+*.pdf
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
